@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/hp_tune/c703862783bd4eb4a2b62c4dcdd734af/artifacts
+end_time: 1764516079641
+entry_point_name: ''
+experiment_id: '160433269033765875'
+lifecycle_stage: active
+run_id: c703862783bd4eb4a2b62c4dcdd734af
+run_name: rfhp tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764516045280
+status: 3
+tags: []
+user_id: shoma

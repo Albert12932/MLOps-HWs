@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/hp_tune/276c153ef9584ee9ab98f5d6bff3a7a8/artifacts
+end_time: 1764516078599
+entry_point_name: ''
+experiment_id: '160433269033765875'
+lifecycle_stage: active
+run_id: 276c153ef9584ee9ab98f5d6bff3a7a8
+run_name: nosy-slug-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764516045280
+status: 3
+tags: []
+user_id: shoma

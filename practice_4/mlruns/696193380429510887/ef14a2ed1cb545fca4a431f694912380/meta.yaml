@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/ef14a2ed1cb545fca4a431f694912380/artifacts
+end_time: 1764515975349
+entry_point_name: ''
+experiment_id: '696193380429510887'
+lifecycle_stage: active
+run_id: ef14a2ed1cb545fca4a431f694912380
+run_name: Breast cancer GBC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764515965477
+status: 3
+tags: []
+user_id: shoma

@@ -1,0 +1,29 @@
+artifact_path: "file:C:/Users/shoma/OneDrive/\u0420\u0430\u0431\u043E\u0447\u0438\u0439\
+  \ \u0441\u0442\u043E\u043B/mlops/practice_4/my-artifacts/models/m-cb92c97adf5d4bf5a22c5f1b40d9c45b/artifacts"
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-cb92c97adf5d4bf5a22c5f1b40d9c45b
+model_size_bytes: 756
+model_uuid: m-cb92c97adf5d4bf5a22c5f1b40d9c45b
+prompts: null
+run_id: 301d71f75f9748dfa3879ee573a5a36c
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-30 15:20:22.022835'

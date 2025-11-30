@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/hp_tune/models/m-18f3adcfc85b45ff99e1bf9e6e8ce126/artifacts
+creation_timestamp: 1764516069610
+experiment_id: '160433269033765875'
+last_updated_timestamp: 1764516074037
+model_id: m-18f3adcfc85b45ff99e1bf9e6e8ce126
+model_type: ''
+name: model
+source_run_id: c703862783bd4eb4a2b62c4dcdd734af
+status: 2
+status_message: null

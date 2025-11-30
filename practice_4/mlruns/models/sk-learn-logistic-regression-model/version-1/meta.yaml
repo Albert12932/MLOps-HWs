@@ -1,0 +1,15 @@
+creation_timestamp: 1764516031211
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764516031211
+model_id: m-a37ca2daecfb480f8584e619a58f47d1
+name: sk-learn-logistic-regression-model
+run_id: 301d71f75f9748dfa3879ee573a5a36c
+run_link: ''
+source: models:/m-a37ca2daecfb480f8584e619a58f47d1
+status: READY
+status_message: null
+storage_location: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/models/m-a37ca2daecfb480f8584e619a58f47d1/artifacts
+user_id: null
+version: 1

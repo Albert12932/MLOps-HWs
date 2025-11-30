@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/models/m-a37ca2daecfb480f8584e619a58f47d1/artifacts
+creation_timestamp: 1764516026063
+experiment_id: '631021147918143451'
+last_updated_timestamp: 1764516031126
+model_id: m-a37ca2daecfb480f8584e619a58f47d1
+model_type: ''
+name: model
+source_run_id: 301d71f75f9748dfa3879ee573a5a36c
+status: 2
+status_message: null

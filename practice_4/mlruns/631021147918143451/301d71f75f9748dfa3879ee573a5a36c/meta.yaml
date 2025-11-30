@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/shoma/OneDrive/Рабочий стол/mlops/practice_4/my-artifacts/301d71f75f9748dfa3879ee573a5a36c/artifacts
+end_time: 1764516031364
+entry_point_name: ''
+experiment_id: '631021147918143451'
+lifecycle_stage: active
+run_id: 301d71f75f9748dfa3879ee573a5a36c
+run_name: Cls
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764516021718
+status: 3
+tags: []
+user_id: shoma
