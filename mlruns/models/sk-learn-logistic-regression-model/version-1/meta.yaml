@@ -1,0 +1,15 @@
+creation_timestamp: 1765284807984
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765284807984
+model_id: m-62734bbdd11847c58d308e5b8bd75816
+name: sk-learn-logistic-regression-model
+run_id: 4b97ce68b9d44d9dae927b509cf92105
+run_link: ''
+source: models:/m-62734bbdd11847c58d308e5b8bd75816
+status: READY
+status_message: null
+storage_location: /Users/albert/MLOps-HWs/my-artifacts/models/m-62734bbdd11847c58d308e5b8bd75816/artifacts
+user_id: null
+version: 1

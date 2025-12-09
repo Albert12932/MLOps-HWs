@@ -1,0 +1,10 @@
+artifact_location: /Users/albert/MLOps-HWs/my-artifacts/hp_tune/models/m-b348800a8c894b7b884cdd4fa90981eb/artifacts
+creation_timestamp: 1765284829226
+experiment_id: '824106438377548297'
+last_updated_timestamp: 1765284830625
+model_id: m-b348800a8c894b7b884cdd4fa90981eb
+model_type: ''
+name: model
+source_run_id: 35806427373147829b18ef4d1bdccce0
+status: 2
+status_message: null

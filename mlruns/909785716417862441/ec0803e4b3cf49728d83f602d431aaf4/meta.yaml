@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/ec0803e4b3cf49728d83f602d431aaf4/artifacts
+end_time: 1765284790020
+entry_point_name: ''
+experiment_id: '909785716417862441'
+lifecycle_stage: active
+run_id: ec0803e4b3cf49728d83f602d431aaf4
+run_name: Breast cancer GBC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284781116
+status: 3
+tags: []
+user_id: albert

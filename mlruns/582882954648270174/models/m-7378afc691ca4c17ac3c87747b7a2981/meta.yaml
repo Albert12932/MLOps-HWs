@@ -1,0 +1,10 @@
+artifact_location: /Users/albert/MLOps-HWs/my-artifacts/models/m-7378afc691ca4c17ac3c87747b7a2981/artifacts
+creation_timestamp: 1765284805182
+experiment_id: '582882954648270174'
+last_updated_timestamp: 1765284806627
+model_id: m-7378afc691ca4c17ac3c87747b7a2981
+model_type: ''
+name: model
+source_run_id: 4b97ce68b9d44d9dae927b509cf92105
+status: 2
+status_message: null

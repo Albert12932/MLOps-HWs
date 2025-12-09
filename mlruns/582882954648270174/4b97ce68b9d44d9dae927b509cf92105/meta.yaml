@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/4b97ce68b9d44d9dae927b509cf92105/artifacts
+end_time: 1765284808001
+entry_point_name: ''
+experiment_id: '582882954648270174'
+lifecycle_stage: active
+run_id: 4b97ce68b9d44d9dae927b509cf92105
+run_name: Cls
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284805152
+status: 3
+tags: []
+user_id: albert

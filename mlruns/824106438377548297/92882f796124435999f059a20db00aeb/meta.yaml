@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/hp_tune/92882f796124435999f059a20db00aeb/artifacts
+end_time: 1765284831967
+entry_point_name: ''
+experiment_id: '824106438377548297'
+lifecycle_stage: active
+run_id: 92882f796124435999f059a20db00aeb
+run_name: gifted-colt-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284819117
+status: 3
+tags: []
+user_id: albert

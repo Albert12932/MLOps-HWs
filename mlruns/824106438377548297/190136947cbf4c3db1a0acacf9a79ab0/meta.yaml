@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/hp_tune/190136947cbf4c3db1a0acacf9a79ab0/artifacts
+end_time: 1765284831967
+entry_point_name: ''
+experiment_id: '824106438377548297'
+lifecycle_stage: active
+run_id: 190136947cbf4c3db1a0acacf9a79ab0
+run_name: painted-skunk-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284819117
+status: 3
+tags: []
+user_id: albert

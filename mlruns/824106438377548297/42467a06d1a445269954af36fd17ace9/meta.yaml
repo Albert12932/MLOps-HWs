@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/hp_tune/42467a06d1a445269954af36fd17ace9/artifacts
+end_time: 1765284831967
+entry_point_name: ''
+experiment_id: '824106438377548297'
+lifecycle_stage: active
+run_id: 42467a06d1a445269954af36fd17ace9
+run_name: bemused-finch-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284819117
+status: 3
+tags: []
+user_id: albert

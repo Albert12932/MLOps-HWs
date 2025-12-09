@@ -1,0 +1,14 @@
+artifact_uri: /Users/albert/MLOps-HWs/my-artifacts/hp_tune/35806427373147829b18ef4d1bdccce0/artifacts
+end_time: 1765284832082
+entry_point_name: ''
+experiment_id: '824106438377548297'
+lifecycle_stage: active
+run_id: 35806427373147829b18ef4d1bdccce0
+run_name: rfhp tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765284819117
+status: 3
+tags: []
+user_id: albert
